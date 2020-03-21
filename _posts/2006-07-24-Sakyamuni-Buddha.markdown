@@ -8,6 +8,6 @@ tags:
 ---
 
 
-[![YamdrokTso](/media/files/2006/07/24/b01.jpg)](http://lszb811.qiniudn.com/b01.jpg)
+[![YamdrokTso](/media/files/2006/07/24/b01.jpg)](https://bolg-1257385283.cos.ap-chengdu.myqcloud.com/2006/07/24/b01.jpg)
 
 **释迦牟尼佛-Sakyamuni Buddha**

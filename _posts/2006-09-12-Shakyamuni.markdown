@@ -8,7 +8,7 @@ tags:
 ---
 
 
-[![YamdrokTso](/media/files/2006/09/12/Shakyamuni.jpg)](http://lszb811.qiniudn.com/Shakyamuni.jpg)
+[![YamdrokTso](/media/files/2006/09/12/Shakyamuni.jpg)](https://bolg-1257385283.cos.ap-chengdu.myqcloud.com/2006/09/12/Shakyamuni.jpg)
 
 **佛陀十二相成道(Shakyamuni)**
 

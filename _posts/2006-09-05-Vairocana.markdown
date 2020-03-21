@@ -8,7 +8,7 @@ tags:
 ---
 
 
-[![YamdrokTso](/media/files/2006/09/05/Vairocana.jpg)](http://lszb811.qiniudn.com/Vairocana.jpg)
+[![YamdrokTso](/media/files/2006/09/05/Vairocana.jpg)](https://bolg-1257385283.cos.ap-chengdu.myqcloud.com/2006/09/05/Vairocana.jpg)
 
 **中央大日如来(Vairocana)**
 

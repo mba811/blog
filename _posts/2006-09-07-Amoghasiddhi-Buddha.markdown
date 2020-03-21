@@ -8,7 +8,7 @@ tags:
 ---
 
 
-[![YamdrokTso](/media/files/2006/09/07/Amoghasiddhi%20Buddha.jpg)](http://lszb811.qiniudn.com/Amoghasiddhi%20Buddha.jpg)
+[![YamdrokTso](/media/files/2006/09/07/Amoghasiddhi%20Buddha.jpg)](https://bolg-1257385283.cos.ap-chengdu.myqcloud.com/2006/09/07/Amoghasiddhi%20Buddha.jpg)
 
 **北方不空成就佛(Amoghasiddhi Buddha)**
 

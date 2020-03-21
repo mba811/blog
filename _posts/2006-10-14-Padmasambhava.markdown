@@ -9,7 +9,7 @@ tags:
 ---
 
 
-[![YamdrokTso](/media/files/2006/10/14/lhsds.jpg)](http://lszb811.qiniudn.com/lhsds.jpg)
+[![YamdrokTso](/media/files/2006/10/14/lhsds.jpg)](https://bolg-1257385283.cos.ap-chengdu.myqcloud.com/2006/10/14/lhsds.jpg)
 
 **莲花生大士 (Padmasambhava)**
 
