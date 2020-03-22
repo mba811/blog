@@ -9,7 +9,7 @@ tags:
 ---
 
 
-[![](/media/files/2020/03/21/kb.png)](https://bolg-1257385283.cos.ap-chengdu.myqcloud.com/2020/03/21/kb.png)
+[![](/media/files/2018/01/22/jt.png)](https://bolg-1257385283.cos.ap-chengdu.myqcloud.com/2018/01/22/jt.png)
 
 ### 投资并不简单，认为简单的人都是傻瓜。——查理·芒格
 
