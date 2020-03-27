@@ -35,7 +35,6 @@ contact
 
 >*  [email](mailto:ztd811@gmail.com/) 
 
->一花一酒一斜阳，一笙一曲一层醉!
->一盏灯，一部随身听，一本书。。。
+>一花一酒一斜阳，一笙一曲一层醉! 一盏灯，一部随身听，一本书。。。
 
 >*  [Tsong khapa | 洛桑扎巴](http://www.72moc.com)
