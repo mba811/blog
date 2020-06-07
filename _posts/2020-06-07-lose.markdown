@@ -1,0 +1,9 @@
+---
+title: lose
+layout: post
+guid: urn:uuid:90f4a323-9c6b-4fb7-b358-3f42b1f8eb91
+tags:
+  - 
+---
+
+
