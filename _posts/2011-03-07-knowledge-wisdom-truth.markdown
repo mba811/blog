@@ -9,7 +9,7 @@ tags:
 ---
 
 
-[![](/media/files/2011/03/07/zh-zzz.png)](http://7vikpt.com1.z0.glb.clouddn.com/zh-zzz.png)
+[![](/media/files/2011/03/07/zh-zzz.png)](https://bolg-1257385283.cos.ap-chengdu.myqcloud.com/2011/03/07/zh-zzz.png)
 
 *  知识：对客观现象、规律的总结
 *  智慧：透过表象看本质的能力

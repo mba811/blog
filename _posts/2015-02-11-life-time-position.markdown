@@ -8,7 +8,7 @@ tags:
 ---
 
 
-[![](/media/files/2015/02/11/ssl.png)](http://7vikpt.com1.z0.glb.clouddn.com/ssl.png)
+[![](/media/files/2015/02/11/ssl.png)](https://bolg-1257385283.cos.ap-chengdu.myqcloud.com/2015/02/11/ssl.png)
 
 生命充满讽刺。它用悲伤让你了解什么叫幸福，用噪音教会你欣赏寂静，用缺失来评价存在。
 

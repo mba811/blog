@@ -9,7 +9,7 @@ tags:
 ---
 
 
-[![](/media/files/2015/05/07/jzdx.png)](http://7vikpt.com1.z0.glb.clouddn.com/jzdx.png)
+[![](/media/files/2015/05/07/jzdx.png)](https://bolg-1257385283.cos.ap-chengdu.myqcloud.com/2015/05/07/jzdx.png)
 
 无意中的一眼，我瞥见了镜中的像，脸还是那张脸，只是眼神变了，孤独，落寞，忧伤，似乎望向远方，有道不尽的衷肠，惆怅。。。。。。
 
