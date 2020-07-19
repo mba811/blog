@@ -10,7 +10,7 @@ tags:
 ---
 
 
-[![](/media/files/2009/10/01/John-Lennon.png)](http://7vikpt.com1.z0.glb.clouddn.com/John-Lennon.png)
+[![](/media/files/2009/10/01/John-Lennon.png)](https://bolg-1257385283.cos.ap-chengdu.myqcloud.com/2009/10/01/John-Lennon.png)
 
 10月9日，是披头士乐队（The Beatles）主唱约翰•列侬（John Lennon）的生日，如果 Lennon 没有在1980年遇害的话，今年将是他的70周岁生日，祝他生日快乐！
 

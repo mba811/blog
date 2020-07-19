@@ -8,7 +8,7 @@ tags:
 ---
 
 
-[![](/media/files/2009/04/21/lxda.png)](http://7vikpt.com1.z0.glb.clouddn.com/lxda.png)
+[![](/media/files/2009/04/21/lxda.png)](https://bolg-1257385283.cos.ap-chengdu.myqcloud.com/2009/04/21/lxda.png)
 
 ```
 理想的爱

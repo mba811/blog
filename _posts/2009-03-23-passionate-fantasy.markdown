@@ -8,7 +8,7 @@ tags:
 ---
 
 
-[![](/media/files/2009/03/23/dqhx.png)](http://7vikpt.com1.z0.glb.clouddn.com/dqhx.png)
+[![](/media/files/2009/03/23/dqhx.png)](https://bolg-1257385283.cos.ap-chengdu.myqcloud.com/2009/03/23/dqhx.png)
 
 ```
 夜  已经深了

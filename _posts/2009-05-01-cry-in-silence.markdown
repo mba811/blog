@@ -8,7 +8,7 @@ tags:
 ---
 
 
-[![](/media/files/2009/05/01/cmnh.png)](http://7vikpt.com1.z0.glb.clouddn.com/cmnh.png)
+[![](/media/files/2009/05/01/cmnh.png)](https://bolg-1257385283.cos.ap-chengdu.myqcloud.com/2009/05/01/cmnh.png)
 
 ```
 我需要整个荒原

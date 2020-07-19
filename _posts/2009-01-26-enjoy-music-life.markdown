@@ -9,7 +9,7 @@ tags:
 ---
 
 
-[![](/media/files/2009/01/26/eniov-music-life.png)](http://7vikpt.com1.z0.glb.clouddn.com/eniov-music-life.png)
+[![](/media/files/2009/01/26/eniov-music-life.png)](https://bolg-1257385283.cos.ap-chengdu.myqcloud.com/2009/01/26/eniov-music-life.png)
 
 前几天，和个朋友喝茶时，建议他让孩子去学习音乐，顺便谈到了对音乐的理解。
 

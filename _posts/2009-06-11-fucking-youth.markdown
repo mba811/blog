@@ -8,7 +8,7 @@ tags:
 ---
 
 
-[![](/media/files/2009/06/11/cdqc.png)](http://7vikpt.com1.z0.glb.clouddn.com/cdqc.png)
+[![](/media/files/2009/06/11/cdqc.png)](https://bolg-1257385283.cos.ap-chengdu.myqcloud.com/2009/06/11/cdqc.png)
 
 在这个操蛋的青春，我们过着醉生梦死一般的生活，向往着从没尝试过的事物，企图能够为自己短暂的人生添加更多的色彩。
 
