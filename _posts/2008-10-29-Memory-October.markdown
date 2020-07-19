@@ -9,7 +9,7 @@ tags:
 ---
 
 
-[![](/media/files/2008/10/29/syjy.png)](http://7vikpt.com1.z0.glb.clouddn.com/syjy.png)
+[![](/media/files/2008/10/29/syjy.png)](https://bolg-1257385283.cos.ap-chengdu.myqcloud.com/2008/10/29/syjy.png)
 
 大理是一座有着很深历史文化渊源的古城，这也是一个流露着暧昧的时尚之都。这是文化学者的耕田，又是红男绿女的天堂。这就是我眼中的大理。但这一切都与我无关，我只是在兰林阁的回廊上看到些嫩绿的叶子和不同形状的石缸，给我的心注入了很多的平静。
 

@@ -11,7 +11,7 @@ tags:
 ---
 
 
-[![](/media/files/2007/05/21/hqsd.png)](http://7vikpt.com1.z0.glb.clouddn.com/hqsd.png)
+[![](/media/files/2007/05/21/hqsd.png)](https://bolg-1257385283.cos.ap-chengdu.myqcloud.com/2007/05/21/hqsd.png)
 
 人要这样活着，不仅要活得有尊严，还要活得有滋味，尊严来自于人格、地位、金钱和权力，也来自于人的自爱，但是有滋味来自于对欲望的追求，对情趣的渴望和对未知世界的探索，尊严是有价的，而滋味是无穷的。
 

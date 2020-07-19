@@ -9,7 +9,7 @@ tags:
 ---
 
 
-[![](/media/files/2008/06/29/lhtb.png)](http://7vikpt.com1.z0.glb.clouddn.com/lhtb.png)
+[![](/media/files/2008/06/29/lhtb.png)](https://bolg-1257385283.cos.ap-chengdu.myqcloud.com/2008/06/29/lhtb.png)
 
 生命中邂逅的每一段感情，都只会让我安定一时。当激情耗尽的时候，砰然心动的内心也会随之很快的冷却下来，然后淡漠的对待眼前的人，还有一直源源不断的温暖与关怀，最后选择背离。
  

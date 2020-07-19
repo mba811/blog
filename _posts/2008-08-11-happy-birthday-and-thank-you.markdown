@@ -9,7 +9,7 @@ tags:
 ---
 
 
-[![](/media/files/2008/08/11/srkl.png)](http://7vikpt.com1.z0.glb.clouddn.com/srkl.png)
+[![](/media/files/2008/08/11/srkl.png)](https://bolg-1257385283.cos.ap-chengdu.myqcloud.com/2008/08/11/srkl.png)
 
 29周年前的昨天，妈妈突然肚子很疼。贫寒的家里，没有任何现代化的交通工具。爸爸推着自行车，一路把妈妈，不！是我们，拉到了医院。凌晨01：00，一声婴儿的哭啼，宣告了一个生命的诞生……
    

@@ -8,7 +8,7 @@ tags:
 ---
 
 
-[![](/media/files/2007/11/29/White-Tara.png)](http://7vikpt.com1.z0.glb.clouddn.com/White-Tara.png)
+[![](/media/files/2007/11/29/White-Tara.png)](https://bolg-1257385283.cos.ap-chengdu.myqcloud.com/2007/11/29/White-Tara.png)
 
 **白度母(White Tara)**
 

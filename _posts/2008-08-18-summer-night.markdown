@@ -8,7 +8,7 @@ tags:
 ---
 
 
-[![](/media/files/2008/08/18/xiay.png)](http://7vikpt.com1.z0.glb.clouddn.com/xiay.png)
+[![](/media/files/2008/08/18/xiay.png)](https://bolg-1257385283.cos.ap-chengdu.myqcloud.com/2008/08/18/xiay.png)
 
 ```
 柔柔的月光

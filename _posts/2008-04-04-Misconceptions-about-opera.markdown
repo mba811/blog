@@ -9,7 +9,7 @@ tags:
 ---
 
 
-[![](/media/files/2008/04/04/phantom-of-the-opera.png)](http://7vikpt.com1.z0.glb.clouddn.com/phantom-of-the-opera.png)
+[![](/media/files/2008/04/04/phantom-of-the-opera.png)](https://bolg-1257385283.cos.ap-chengdu.myqcloud.com/2008/04/04/phantom-of-the-opera.png)
 
 文章的[原文](http://sfopera.com/)来自于旧金山歌剧院的官方网站，可以看作是他们的一个广告。不过这样的广告除了起到宣传作用，还能让人长知识，所以我就把原文翻译了一下，以下是译文。
 

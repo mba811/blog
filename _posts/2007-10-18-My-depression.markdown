@@ -9,7 +9,7 @@ tags:
 ---
 
 
-[![](/media/files/2007/10/18/myl.png)](http://7vikpt.com1.z0.glb.clouddn.com/myl.png)
+[![](/media/files/2007/10/18/myl.png)](https://bolg-1257385283.cos.ap-chengdu.myqcloud.com/2007/10/18/myl.png)
 
 我的性格也许注定了我的忧郁，悲天悯人，多愁善感。来到这个人世的头一个月里，我的哭声就没有停止过。我想，那哭声可能有所寓意，无非有所不情愿，无非不想看到什么，无非是对人世的悲怜和哀痛，以及无望的失望和遗憾。
 

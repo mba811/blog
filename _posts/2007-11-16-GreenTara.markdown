@@ -8,7 +8,7 @@ tags:
 ---
 
 
-[![](/media/files/2007/11/16/Green-Tara.png)](http://7vikpt.com1.z0.glb.clouddn.com/Green-Tara.png)
+[![](/media/files/2007/11/16/Green-Tara.png)](https://bolg-1257385283.cos.ap-chengdu.myqcloud.com/2007/11/16/Green-Tara.png)
 
 **绿度母(Green Tara)**
 

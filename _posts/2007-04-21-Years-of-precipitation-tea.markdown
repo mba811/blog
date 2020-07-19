@@ -10,7 +10,7 @@ tags:
 ---
 
 
-[![](/media/files/2007/04/21/sycx.png)](http://7vikpt.com1.z0.glb.clouddn.com/sycx.png)
+[![](/media/files/2007/04/21/sycx.png)](https://bolg-1257385283.cos.ap-chengdu.myqcloud.com/2007/04/21/sycx.png)
 
 对于倾情于普洱茶的茶人和茶迷，陈年普洱茶是一种有着记忆的茶品。作为一种向后看的茶，陈年普洱浸润着岁月的秘香。在它的浓酽和淳厚中，贮藏了时间的重量。那些号级、印极茶，在经历了岁月的尘埃和命运的沧桑后，变得老成持重，品饮它们，就像是在品读历史和尘封与遗失的往事。
 

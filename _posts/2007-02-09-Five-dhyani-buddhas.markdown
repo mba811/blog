@@ -8,7 +8,7 @@ tags:
 ---
 
 
-[![YamdrokTso](/media/files/2007/02/09/Five-dhyani-buddhas.png)](http://7vikpt.com1.z0.glb.clouddn.com/Five-dhyani-buddhas.png)
+[![YamdrokTso](/media/files/2007/02/09/Five-dhyani-buddhas.png)](https://bolg-1257385283.cos.ap-chengdu.myqcloud.com/2007/02/09/Five-dhyani-buddhas.png)
 
 **五方佛(Five dhyani buddhas)**
 

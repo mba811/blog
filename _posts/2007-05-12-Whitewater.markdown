@@ -8,7 +8,7 @@ tags:
 ---
 
 
-[![YamdrokTso](/media/files/2007/05/12/water1.png)](http://7vikpt.com1.z0.glb.clouddn.com/water1.png)
+[![YamdrokTso](/media/files/2007/05/12/water1.png)](https://bolg-1257385283.cos.ap-chengdu.myqcloud.com/2007/05/12/water1.png)
 
 ```
 你知道

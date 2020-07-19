@@ -8,7 +8,7 @@ tags:
 ---
 
 
-[![](/media/files/2008/04/01/tkdjz.png)](http://7vikpt.com1.z0.glb.clouddn.com/tkdjz.png)
+[![](/media/files/2008/04/01/tkdjz.png)](https://bolg-1257385283.cos.ap-chengdu.myqcloud.com/2008/04/01/tkdjz.png)
 
 快感和痛感是肉体感觉，快乐和痛苦是心理现象，而幸福和苦难则仅仅属于灵魂。幸福是灵魂的叹息和歌唱，苦难是灵魂的呻吟和抗议，在两者中凸现的是对生命意义的或正或负的强烈体验。
 

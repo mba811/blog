@@ -8,7 +8,7 @@ tags:
 ---
 
 
-[![](/media/files/2007/10/14/hydkh.png)](http://7vikpt.com1.z0.glb.clouddn.com/hydkh.png)
+[![](/media/files/2007/10/14/hydkh.png)](https://bolg-1257385283.cos.ap-chengdu.myqcloud.com/2007/10/14/hydkh.png)
 
 人们常说：婚姻是围城，城内的人想出城，城外的人想进城。也有人说：婚姻是一双鞋子，是否合脚只有自己知道了。婚姻，有时很简单，就是两个人相爱然后彼此牵手步入属于自己的天地——家！从此两人共同支持、打造、经营着这片天地。
 

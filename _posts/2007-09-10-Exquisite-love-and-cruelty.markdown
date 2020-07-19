@@ -9,7 +9,7 @@ tags:
 ---
 
 
-[![](/media/files/2007/09/10/jzycr.png)](http://7vikpt.com1.z0.glb.clouddn.com/jzycr.png)
+[![](/media/files/2007/09/10/jzycr.png)](https://bolg-1257385283.cos.ap-chengdu.myqcloud.com/2007/09/10/jzycr.png)
 
 # 当与之偕老成为一个支离破碎的誓言
 

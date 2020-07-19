@@ -8,7 +8,7 @@ tags:
 ---
 
 
-[![](/media/files/2007/05/16/gwjm.png)](http://7vikpt.com1.z0.glb.clouddn.com/gwjm.png)
+[![](/media/files/2007/05/16/gwjm.png)](https://bolg-1257385283.cos.ap-chengdu.myqcloud.com/2007/05/16/gwjm.png)
 
 很多的时候，我们都会有一份寂寞的心情。寂寞的心情是什么？无非就是一盏孤灯，一杯清茶，一支铅笔，一笺信纸。或是年轻的时候守着的一段寂寞岁月。
 

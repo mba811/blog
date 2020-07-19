@@ -8,6 +8,6 @@ tags:
 ---
 
 
-[![](/media/files/2008/06/08/White-Jambhala.png)](http://7vikpt.com1.z0.glb.clouddn.com/White-Jambhala.png)
+[![](/media/files/2008/06/08/White-Jambhala.png)](https://bolg-1257385283.cos.ap-chengdu.myqcloud.com/2008/06/08/White-Jambhala.png)
 
 **白财神(White Jambhala)**

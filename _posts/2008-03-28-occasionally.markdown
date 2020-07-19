@@ -8,7 +8,7 @@ tags:
 ---
 
 
-[![](/media/files/2008/03/28/Occasionally.png)](http://7vikpt.com1.z0.glb.clouddn.com/Occasionally.png)
+[![](/media/files/2008/03/28/Occasionally.png)](https://bolg-1257385283.cos.ap-chengdu.myqcloud.com/2008/03/28/Occasionally.png)
 
 ```
 当风吹灭所有的星星

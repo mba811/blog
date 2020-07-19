@@ -8,6 +8,6 @@ tags:
 ---
 
 
-[![](/media/files/2008/03/22/Sukharati.png)](http://7vikpt.com1.z0.glb.clouddn.com/Sukharati.png)
+[![](/media/files/2008/03/22/Sukharati.png)](https://bolg-1257385283.cos.ap-chengdu.myqcloud.com/2008/03/22/Sukharati.png)
 
 **西方极乐净土(Sukharati)**

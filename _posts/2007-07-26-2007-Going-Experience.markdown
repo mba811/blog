@@ -8,7 +8,7 @@ tags:
 ---
 
 
-[![YamdrokTso](/media/files/2007/07/26/sy.png)](http://7vikpt.com1.z0.glb.clouddn.com/sy.png) 
+[![YamdrokTso](/media/files/2007/07/26/sy.png)](https://bolg-1257385283.cos.ap-chengdu.myqcloud.com/2007/07/26/sy.png) 
 
 人常说,花不能常开,月不能常圆,云不能常留,人不能常好。但是，我们可以把握自己，顺其自然，一切随缘。
 

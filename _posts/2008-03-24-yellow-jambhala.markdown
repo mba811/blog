@@ -8,6 +8,6 @@ tags:
 ---
 
 
-[![](/media/files/2008/03/24/Yellow-Jambhala.png)](http://7vikpt.com1.z0.glb.clouddn.com/Yellow-Jambhala.png)
+[![](/media/files/2008/03/24/Yellow-Jambhala.png)](https://bolg-1257385283.cos.ap-chengdu.myqcloud.com/2008/03/24/Yellow-Jambhala.png)
 
 **黄财神(Yellow Jambhala)**

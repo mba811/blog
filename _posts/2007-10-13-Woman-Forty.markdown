@@ -6,7 +6,7 @@ tags:
     - 关于女人
 ---
 
-[![bridge to wonderland](/media/files/2007/10/13/40nr.png)](http://7vikpt.com1.z0.glb.clouddn.com/40nr.png)
+[![bridge to wonderland](/media/files/2007/10/13/40nr.png)](https://bolg-1257385283.cos.ap-chengdu.myqcloud.com/2007/10/13/40nr.png)
 
 在茶山行的一次晚餐上，有道菜是豆腐渣。当时有位茶友却这样给我们介绍：“这道菜是四十岁的女人”……
    

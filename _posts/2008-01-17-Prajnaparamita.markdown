@@ -8,7 +8,7 @@ tags:
 ---
 
 
-[![](/media/files/2008/01/17/Prajnaparamita.png)](http://7vikpt.com1.z0.glb.clouddn.com/Prajnaparamita.png)
+[![](/media/files/2008/01/17/Prajnaparamita.png)](https://bolg-1257385283.cos.ap-chengdu.myqcloud.com/2008/01/17/Prajnaparamita.png)
 
 **般若佛母(Prajnaparamita)**
 
