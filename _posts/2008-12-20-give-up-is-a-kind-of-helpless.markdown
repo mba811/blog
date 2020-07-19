@@ -8,7 +8,7 @@ tags:
 ---
 
 
-[![](/media/files/2015/12/20/fqwn.png)](https://bolg-1257385283.cos.ap-chengdu.myqcloud.com/2008/12/20/fqwn.png)
+[![](/media/files/2008/12/20/fqwn.png)](https://bolg-1257385283.cos.ap-chengdu.myqcloud.com/2008/12/20/fqwn.png)
 
 ```
 曾经爱过一个人，用心，用真情，用一种心痛和眼泪
