@@ -9,7 +9,7 @@ tags:
 ---
 
 
-[![](/media/files/2012/05/10/jinj.png)](http://7vikpt.com1.z0.glb.clouddn.com/jinj.png)
+[![](/media/files/2012/05/10/jinj.png)](https://bolg-1257385283.cos.ap-chengdu.myqcloud.com/2012/05/10/jinj.png)
 
 人生，是指一个人从生到死的过程。
 

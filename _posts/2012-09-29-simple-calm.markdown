@@ -9,7 +9,7 @@ tags:
 ---
 
 
-[![](/media/files/2012/09/29/jdpj.png)](http://7vikpt.com1.z0.glb.clouddn.com/jdpj.png)
+[![](/media/files/2012/09/29/jdpj.png)](https://bolg-1257385283.cos.ap-chengdu.myqcloud.com/2012/09/29/jdpj.png)
 
 很向往一种平静的状态，心中没有太多波澜，只是专注的、简单的做着自己的事情。这样一种简单的平静，是很大的幸福。
 

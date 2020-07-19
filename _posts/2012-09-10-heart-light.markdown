@@ -9,7 +9,7 @@ tags:
 ---
 
 
-[![](/media/files/2012/09/10/x-d.png)](http://7vikpt.com1.z0.glb.clouddn.com/x-d.png)
+[![](/media/files/2012/09/10/x-d.png)](https://bolg-1257385283.cos.ap-chengdu.myqcloud.com/2012/09/10/x-d.png)
 
 佛说千灯万盏，不如心灯一盏；我说心灯在哪？佛说心灯在你心中。万山孤寂，你仰望星空，感受一片漆黑下所带来的崇高。很多时候我们在追寻着外在的事物，但是心灯已灭，那追求的仅仅是一个虚无。
 

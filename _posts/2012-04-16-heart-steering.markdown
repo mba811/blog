@@ -8,7 +8,7 @@ tags:
   - 理性
 ---
 
-[![](/media/files/2012/04/16/xdzx.png)](http://7vikpt.com1.z0.glb.clouddn.com/xdzx.png)
+[![](/media/files/2012/04/16/xdzx.png)](https://bolg-1257385283.cos.ap-chengdu.myqcloud.com/2012/04/16/xdzx.png)
 
 哲学是爱好智慧，哲学家是擅长使用理性的人。理性的表现在于慎思明辨，能对宇宙与人生说出一番道理。不过，理性也有其根本的限制，就是无法说明人的意志与感情。譬如，理性认为不该做的事，意志可能非常向往，感情也陷于无法遏止的冲动中，这时何去何从？
 

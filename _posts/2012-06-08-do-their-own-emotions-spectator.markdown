@@ -10,7 +10,7 @@ tags:
 ---
 
 
-[![](/media/files/2012/06/08/pgz.png)](http://7vikpt.com1.z0.glb.clouddn.com/pgz.png)
+[![](/media/files/2012/06/08/pgz.png)](https://bolg-1257385283.cos.ap-chengdu.myqcloud.com/2012/06/08/pgz.png)
 
 这算是一次自我情绪的整理。
 
