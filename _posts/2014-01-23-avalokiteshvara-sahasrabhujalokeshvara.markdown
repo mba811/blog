@@ -8,7 +8,7 @@ tags:
 ---
 
 
-[![](/media/files/2014/01/23/avalokiteshvara-sahasrabhujalokeshvara.png)](http://7vikpt.com1.z0.glb.clouddn.com/avalokiteshvara-sahasrabhujalokeshvara.png)
+[![](/media/files/2014/01/23/avalokiteshvara-sahasrabhujalokeshvara.png)](https://bolg-1257385283.cos.ap-chengdu.myqcloud.com/2014/01/23/avalokiteshvara-sahasrabhujalokeshvara.png)
 
 **千手千眼观音(Avalokiteshvara - Sahasrabhujalokeshvara (11 faces, 1000 Hands))**
 

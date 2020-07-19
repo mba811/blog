@@ -8,7 +8,7 @@ tags:
 ---
 
 
-[![](/media/files/2014/07/02/jdywd.png)](http://7vikpt.com1.z0.glb.clouddn.com/jdywd.png)
+[![](/media/files/2014/07/02/jdywd.png)](https://bolg-1257385283.cos.ap-chengdu.myqcloud.com/2014/07/02/jdywd.png)
 
 佛经里常说：初地菩萨不知二地菩萨的境界；等觉菩萨不知妙觉菩萨的境界。我一直很难准确理解。有一天，一下想起以前看过一个中篇小说《神奇的二维国》（写于19世纪，是一位英国牧师的作品。既是科普，又是科幻，也充满对现实社会的隐喻。有兴趣可以看看）。
 

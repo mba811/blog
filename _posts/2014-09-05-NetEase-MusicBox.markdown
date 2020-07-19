@@ -7,7 +7,7 @@ tags:
   - 高品质
 ---
 
-[![bridge to wonderland](/media/files/2014/09/05/NetEase-MusicBox.gif)](http://7vikpt.com1.z0.glb.clouddn.com/NetEase-MusicBox.gif)
+[![bridge to wonderland](/media/files/2014/09/05/NetEase-MusicBox.gif)](https://bolg-1257385283.cos.ap-chengdu.myqcloud.com/2014/09/05/NetEase-MusicBox.gif)
 
 高品质网易云音乐命令行版本，简洁优雅，丝般顺滑，基于Python编写。
 

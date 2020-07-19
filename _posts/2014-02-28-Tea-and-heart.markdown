@@ -8,7 +8,7 @@ tags:
 ---
 
 
-[![](/media/files/2014/02/28/ypcy.png)](http://7vikpt.com1.z0.glb.clouddn.com/ypcy.png)
+[![](/media/files/2014/02/28/ypcy.png)](https://bolg-1257385283.cos.ap-chengdu.myqcloud.com/2014/02/28/ypcy.png)
 
 ```
 一叶叶费心仔细

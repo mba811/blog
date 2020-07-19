@@ -8,7 +8,7 @@ tags:
 ---
 
 
-[![](/media/files/2014/03/17/Dorje-Tsundi.png)](http://7vikpt.com1.z0.glb.clouddn.com/Dorje-Tsundi.png.png)
+[![](/media/files/2014/03/17/Dorje-Tsundi.png)](https://bolg-1257385283.cos.ap-chengdu.myqcloud.com/2014/03/17/Dorje-Tsundi.png)
 
 
 **准提佛母(Maha Cundi Bodhisattva)准提佛母（梵名Dorje Tsundi）**

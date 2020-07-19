@@ -8,7 +8,7 @@ tags:
 ---
 
 
-[![](/media/files/2014/02/20/Avalokiteshvara-Amoghapasha.png)](http://7vikpt.com1.z0.glb.clouddn.com/Avalokiteshvara-Amoghapasha.png)
+[![](/media/files/2014/02/20/Avalokiteshvara-Amoghapasha.png)](https://bolg-1257385283.cos.ap-chengdu.myqcloud.com/2014/02/20/Avalokiteshvara-Amoghapasha.png)
 
 **不空羂索观音菩萨(Avalokiteshvara - Amoghapasha)**
 

@@ -7,7 +7,7 @@ tags:
   - 心境
 ---
 
-[![White Mountains](/media/files/2014/04/07/t.png)](http://7vikpt.com1.z0.glb.clouddn.com/t.png)
+[![White Mountains](/media/files/2014/04/07/t.png)](https://bolg-1257385283.cos.ap-chengdu.myqcloud.com/2014/04/07/t.png)
 
 
 喝茶，

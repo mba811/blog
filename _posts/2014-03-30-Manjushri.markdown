@@ -8,7 +8,7 @@ tags:
 ---
 
 
-[![](/media/files/2014/03/30/Manjushri.png)](http://7vikpt.com1.z0.glb.clouddn.com/Manjushri.png)
+[![](/media/files/2014/03/30/Manjushri.png)](https://bolg-1257385283.cos.ap-chengdu.myqcloud.com/2014/03/30/Manjushri.png)
 
 
 **文殊师利菩萨(Manjushri)**

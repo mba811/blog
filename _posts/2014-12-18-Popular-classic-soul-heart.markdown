@@ -7,7 +7,7 @@ tags:
   - music
 ---
 
-[![](/media/files/2014/12/18/pianoforte.png)](http://7vikpt.com1.z0.glb.clouddn.com/@/res/pianoforte.png)
+[![](/media/files/2014/12/18/pianoforte.png)](https://bolg-1257385283.cos.ap-chengdu.myqcloud.com/2014/12/18/pianoforte.png)
 
 David Sides虽不能说红遍网络，但也算是小有名气，他主要出名在将当红流行曲改编成钢琴曲。由于其在演奏视频中专注、陶醉的表现和高超的钢琴技法，许多人对这个来自加利福尼亚的黑人小伙子都刮目相看。
 
