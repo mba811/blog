@@ -9,7 +9,7 @@ tags:
 ---
 
 
-[![](/media/files/2011/09/23/zh-gd.png)](http://7vikpt.com1.z0.glb.clouddn.com/zh-gd.png)
+[![](/media/files/2011/09/23/zh-gd.png)](https://bolg-1257385283.cos.ap-chengdu.myqcloud.com/2011/09/23/zh-gd.png)
 
 生命的超越能否成功，还有命运的因素。
 

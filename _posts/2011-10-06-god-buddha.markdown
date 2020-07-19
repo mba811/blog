@@ -9,7 +9,7 @@ tags:
 ---
 
 
-[![](/media/files/2011/10/06/zh-zj.png)](http://7vikpt.com1.z0.glb.clouddn.com/zh-zj.png)
+[![](/media/files/2011/10/06/zh-zj.png)](https://bolg-1257385283.cos.ap-chengdu.myqcloud.com/2011/10/06/zh-zj.png)
 
 ##宗教反映出人类的贪心
 

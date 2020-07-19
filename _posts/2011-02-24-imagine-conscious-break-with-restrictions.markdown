@@ -9,7 +9,7 @@ tags:
 ---
 
 
-[![](/media/files/2011/02/24/zh-yzl.png)](http://7vikpt.com1.z0.glb.clouddn.com/zh-yzl.png)
+[![](/media/files/2011/02/24/zh-yzl.png)](https://bolg-1257385283.cos.ap-chengdu.myqcloud.com/2011/02/24/zh-yzl.png)
 
 传统的静坐方法多是让有限制的意识停止活动，我称之为石头禅，在努力把自己修炼成石头。
 

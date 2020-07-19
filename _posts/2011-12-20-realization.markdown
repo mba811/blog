@@ -8,7 +8,7 @@ tags:
 ---
 
 
-[![](/media/files/2011/12/20/lwu.png)](http://7vikpt.com1.z0.glb.clouddn.com/lwu.png)
+[![](/media/files/2011/12/20/lwu.png)](https://bolg-1257385283.cos.ap-chengdu.myqcloud.com/2011/12/20/lwu.png)
 
 有些东西你没有失去的时候总觉得理所应当，当真正失去的时候才后悔莫及，没有生死离别的痛楚，有哪里有刻骨铭心的爱。幸福有时候很简单，你的物质欲望越小的时候，你往往越容易幸福。你可能每天都在通往幸福的路上，但是始终都无法真正的理解当下的幸福。
 

@@ -7,7 +7,8 @@ tags:
 ---
 
 
-[![](/media/files/2011/01/31/jdj.png)](http://7vikpt.com1.z0.glb.clouddn.com/jdj.png)
+[![](/media/files/2011/01/31/jdj.png)](https://bolg-1257385283.cos.ap-chengdu.myqcloud.com/2011/01/31/jdj.png)
+
 
 ```
 世人说有者，

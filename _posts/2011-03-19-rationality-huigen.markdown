@@ -9,7 +9,7 @@ tags:
 ---
 
 
-[![](/media/files/2011/03/19/zh-zg.png)](http://7vikpt.com1.z0.glb.clouddn.com/zh-zg.png)
+[![](/media/files/2011/03/19/zh-zg.png)](https://bolg-1257385283.cos.ap-chengdu.myqcloud.com/2011/03/19/zh-zg.png)
 
 讲理性真是太难了，数千年一贯的教育是“民可使由之，不可使知之”。现代技术的的突飞猛进并不是一下子有许多神仙下凡来做科学家了（不要笑，真的有人这么认为），而是社会制度改进，人性得到解放，人们掌握了用理性的逻辑的方法去认识事物，去探究世界。认识事物的方法正确，技术不突飞猛进也难。
 

@@ -9,7 +9,7 @@ tags:
 ---
 
 
-[![](/media/files/2011/11/29/zjdx.png)](http://7vikpt.com1.z0.glb.clouddn.com/zjdx.png)
+[![](/media/files/2011/11/29/zjdx.png)](https://bolg-1257385283.cos.ap-chengdu.myqcloud.com/2011/11/29/zjdx.png)
 
 从工作到现在，生活似乎总是在两个极端：过于压迫或是过于懒散。一方面急于完成一个个目标却又因为关注的太多而不能做到全神贯注；一方面则是间歇性的犯懒，然后后悔、打鸡血、努力一会会再到犯懒的恶性循环。这样的一些状态，可能是说明还没找到自己想要的是什么吧！
 

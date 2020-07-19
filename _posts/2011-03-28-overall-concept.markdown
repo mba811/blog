@@ -8,7 +8,7 @@ tags:
 ---
 
 
-[![](/media/files/2011/03/28/zh-ztg.png)](http://7vikpt.com1.z0.glb.clouddn.com/zh-ztg.png)
+[![](/media/files/2011/03/28/zh-ztg.png)](https://bolg-1257385283.cos.ap-chengdu.myqcloud.com/2011/03/28/zh-ztg.png)
 
 现代技术实验已经证明，在超微观粒子层面，三维时空的限制失效，粒子可以超越时空互通信息，本质上宇宙一切物质是一体的。
 

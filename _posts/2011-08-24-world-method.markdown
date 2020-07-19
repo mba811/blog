@@ -8,7 +8,7 @@ tags:
 ---
 
 
-[![](/media/files/2011/08/24/zh-sqf.png)](http://7vikpt.com1.z0.glb.clouddn.com/zh-sqf.png)
+[![](/media/files/2011/08/24/zh-sqf.png)](https://bolg-1257385283.cos.ap-chengdu.myqcloud.com/2011/08/24/zh-sqf.png)
 
 中国传统道家有法财侣地的说法
 

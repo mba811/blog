@@ -8,7 +8,7 @@ tags:
 ---
 
 
-[![](/media/files/2011/03/12/zh-zhqt.png)](http://7vikpt.com1.z0.glb.clouddn.com/zh-zhqt.png)
+[![](/media/files/2011/03/12/zh-zhqt.png)](https://bolg-1257385283.cos.ap-chengdu.myqcloud.com/2011/03/12/zh-zhqt.png)
 
 智慧不够，其实就是一个人知识比较狭窄、浅薄。一个知识比较缺乏的人要拥有高深的智慧是不可能的。
 

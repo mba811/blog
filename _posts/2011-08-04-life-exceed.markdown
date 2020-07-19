@@ -9,7 +9,7 @@ tags:
 ---
 
 
-[![](/media/files/2011/08/04/zh-smcy.png)](http://7vikpt.com1.z0.glb.clouddn.com/zh-smcy.png)
+[![](/media/files/2011/08/04/zh-smcy.png)](https://bolg-1257385283.cos.ap-chengdu.myqcloud.com/2011/08/04/zh-smcy.png)
 
 我把生命超越整体上分为以下几个阶段：
 
