@@ -8,7 +8,7 @@ tags:
 ---
 
 
-[![](/media/files/2013/08/12/ctwhgd.png)](http://7vikpt.com1.z0.glb.clouddn.com/ctwhgd.png)
+[![](/media/files/2013/08/12/ctwhgd.png)](https://bolg-1257385283.cos.ap-chengdu.myqcloud.com/2013/08/12/ctwhgd.png)
 
 其实传统文化里面并没有那么多的宝可以淘。
 

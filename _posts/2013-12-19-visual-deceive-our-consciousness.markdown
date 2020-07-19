@@ -10,7 +10,7 @@ tags:
 ---
 
 
-[![](/media/files/2013/12/19/sj-ys.png)](http://7vikpt.com1.z0.glb.clouddn.com/sj-ys.png)
+[![](/media/files/2013/12/19/sj-ys.png)](https://bolg-1257385283.cos.ap-chengdu.myqcloud.com/2013/12/19/sj-ys.png)
 
 人的意识主要来自于视觉，而人类的视觉是很有限的：
 

@@ -8,7 +8,7 @@ tags:
 ---
 
 
-[![](/media/files/2013/11/05/swkj.png)](http://7vikpt.com1.z0.glb.clouddn.com/swkj.png)
+[![](/media/files/2013/11/05/swkj.png)](https://bolg-1257385283.cos.ap-chengdu.myqcloud.com/2013/11/05/swkj.png)
 
 一般认为，我们生活的世界是三维世界，也就是长、宽、高三维组成的世界。有些人再加上时间凑成四维。
 

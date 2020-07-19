@@ -8,6 +8,6 @@ tags:
 ---
 
 
-[![](/media/files/2013/04/02/vajrasattva.png)](http://7vikpt.com1.z0.glb.clouddn.com/vajrasattva.png)
+[![](/media/files/2013/04/02/vajrasattva.png)](https://bolg-1257385283.cos.ap-chengdu.myqcloud.com/2013/04/02/vajrasattva.png)
 
 **金刚萨埵(Vajrasattva)**
