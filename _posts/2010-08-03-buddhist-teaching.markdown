@@ -8,7 +8,7 @@ tags:
 ---
 
 
-[![](/media/files/2010/08/03/fof.png)](http://7vikpt.com1.z0.glb.clouddn.com/fof.png)
+[![](/media/files/2010/08/03/fof.png)](https://bolg-1257385283.cos.ap-chengdu.myqcloud.com/2010/08/03/fof.png)
 
 法（佛陀的教法），乃是要放下心中的剧情故事，对“真相”敞开心胸：包括生活中遇见的人、我们面对的情境、心中的思想、各种的情绪，等等。我们都有自己的生活，但不论过的是什么样的生活，它都是我们觉醒的工具。
 

@@ -8,7 +8,7 @@ tags:
 ---
 
 
-[![](/media/files/2010/08/17/ptx.png)](http://7vikpt.com1.z0.glb.clouddn.com/ptx.png)
+[![](/media/files/2010/08/17/ptx.png)](https://bolg-1257385283.cos.ap-chengdu.myqcloud.com/2010/08/17/ptx.png)
 
 菩提心在梵文里指的是“高尚或觉醒的心”，如同奶油源自牛奶，香油取自芝麻，“菩提心”这个柔软地带，也潜藏在你我的心中。有人将它与爱的能力等同看待。不论我们有多么无情、自私或贪婪，真诚的菩提心永远也不会丧失。它就在众生的身上，从未毁损，一向完整无损。
 

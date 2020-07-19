@@ -9,7 +9,7 @@ tags:
 ---
 
 
-[![](/media/files/2010/02/05/zzy.png)](http://7vikpt.com1.z0.glb.clouddn.com/zzy.png)
+[![](/media/files/2010/02/05/zzy.png)](https://bolg-1257385283.cos.ap-chengdu.myqcloud.com/2010/02/05/zzy.png)
 
 把这三个放一块，其实也是源自于对社会学的思考。
 

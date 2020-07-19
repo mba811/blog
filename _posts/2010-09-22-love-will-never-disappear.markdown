@@ -9,7 +9,7 @@ tags:
 ---
 
 
-[![](/media/files/2010/09/22/ybxsda.png)](http://7vikpt.com1.z0.glb.clouddn.com/ybxsda.png)
+[![](/media/files/2010/09/22/ybxsda.png)](https://bolg-1257385283.cos.ap-chengdu.myqcloud.com/2010/09/22/ybxsda.png)
 
 心灵觉醒经常被描述成一趟登山涉岭之旅。我们舍去了对世俗的执着，缓步迈向山顶。到达顶峰时，我们已经转化了所有的痛苦。这个比喻只有一个问题：其他人似乎被我们置之度外了。他们的苦难还在延续着，不会因为我们的出离而得到缓解。
 

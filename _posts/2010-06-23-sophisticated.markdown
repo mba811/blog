@@ -8,7 +8,7 @@ tags:
 ---
 
 
-[![](/media/files/2010/06/23/jjing.png)](http://7vikpt.com1.z0.glb.clouddn.com/jjing.png)
+[![](/media/files/2010/06/23/jjing.png)](https://bolg-1257385283.cos.ap-chengdu.myqcloud.com/2010/06/23/jjing.png)
 
 精进波罗蜜往往与喜悦相连。修持这项波罗蜜就像小孩学走路，虽然急着想学会，却没有任何目的。这般喜悦及振奋的能量，并不是靠运气来的。你必须持续地修习正念和发菩提心，才能打破心中的藩篱，敞开自己的心胸。当我能量就们学会安住于无所依傍的状态时，这股热情的出现了。
 
