@@ -5,3 +5,8 @@ Thumbs.db
 !.gitkeep
 qrsync
 qiniu.json
+*.a       # 忽略所有 .a 结尾的文件
+!lib.a    # 但 lib.a 除外
+/-liberxuesite     # 仅仅忽略项目根目录下的 liberxuesite 文件，不包括 subdir/liberxuesite
+liberxue/    # 忽略 liberxue文件夹/ 目录下的所有文件以及文件夹本身
+doc/*.txt
