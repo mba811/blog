@@ -24,10 +24,10 @@ sns
 
 project
 
->*  [music](https://music.72moc.com)
->*  [books](https://book.72moc.com)
->*  [notes](http://notes.72moc.com)
->*  [wiki](http://wiki.72moc.com)
+>*  [music](https://music.tk-zh.com)
+>*  [books](https://book.tk-zh.com)
+>*  [work](http://work.tk-zh.com)
+>*  [wiki](http://wiki.tk-zh.com)
 
 >喜欢探索新奇好玩的东西，一个爱折腾的人。。。
 
@@ -37,4 +37,4 @@ contact
 
 >一花一酒一斜阳，一笙一曲一层醉! 一盏灯，一部随身听，一本书。。。
 
->*  [Tsong khapa](https://www.72moc.com)
+>*  [Tsong khapa](https://www.tk-zh.com)

@@ -4,7 +4,7 @@ permalink: /:year/:month/:day/:title.html
 name: "一盏灯，一部随身听，一本书"
 
 author: "Tsong khapa"
-atom-baseurl: "http://blog.72moc.com"
+atom-baseurl: "http://blog.tk-zh.com"
 disqus: "mba811"
 
 baseurl: /blog
@@ -21,11 +21,11 @@ navigations:
     href: /about.html
   - title: Music
     class: fa fa-film
-    href: http://music.72moc.com
+    href: http://music.tk-zh.com
   - title: Wiki
     class: fa fa-link
     href: /links.html
-    href: http://wiki.72moc.com
+    href: http://wiki.tk-zh.com
   - title: Subscribe
     class: fa fa-rss
     href: /atom.xml
