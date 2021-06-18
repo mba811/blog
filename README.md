@@ -1,1 +1,1 @@
-[Tsong Khapa's personal blog](http://blog.72moc.com)
+[Tsong Khapa's personal blog](http://blog.tk-zh.com)
